@@ -13,7 +13,7 @@ _4 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [HTML](HTML/HTML5 기본문법.md) - Fri Jul 8 00:04:22 2022 +0900
+- [HTML](HTML/1. HTML5 기본문법.md) - Fri Jul 8 00:41:56 2022 +0900
 - [HTML의 핵심 개념인 Hyperlink](HTML/HTML의 핵심 개념인 Hyperlink.md) - Fri Jul 8 00:39:56 2022 +0900
 
 ### Categories
@@ -21,7 +21,7 @@ _4 TILs and counting..._
 - [HTML](#HTML)
 
 ### [HTML](#HTML)
-- [HTML](HTML/HTML5 기본문법.md)
+- [HTML](HTML/1. HTML5 기본문법.md)
 - [HTML의 핵심 개념인 Hyperlink](HTML/HTML의 핵심 개념인 Hyperlink.md)
 - [시맨틱 요소와 검색 엔진](HTML/시맨틱 요소와 검색 엔진.md)
 - [웹 페이지를 구성하는 기본 태그](HTML/웹 페이지를 구성하는 기본 태그.md)
