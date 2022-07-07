@@ -1,4 +1,4 @@
-name: Build README
+name: TIL Auto-Format README
 on:
   push:
     branches:
