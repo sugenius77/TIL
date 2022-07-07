@@ -15,7 +15,7 @@ jobs:
         # necessary for github-action-til-autoformat-readme
         fetch-depth: 0
     - name: Autoformat README
-      uses: cflynn07/github-action-til-autoformat-readme@1.2.0
+      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
       with:
         description: |
           하루 동안 학습한 내용이나 개발 관련 경험들을 기록으로 남긴 것입니다.
