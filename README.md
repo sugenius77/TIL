@@ -1,10 +1,7 @@
 # TIL
 > Today I Learned
 
-A collection of concrete writeups of small things I learn daily while working
-and researching. My goal is to work in public. I was inspired to start this
-repository after reading Simon Wilson's [hacker new post][1], and he was
-apparently inspired by Josh Branchaud's [TIL collection][2].
+하루 동안 공부한 내용과 개발 관련 내용을 기록하는 공간입니다.
 
 
 _4 TILs and counting..._
