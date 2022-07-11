@@ -4,20 +4,22 @@
 하루 동안 공부한 내용과 개발 관련 내용을 기록하는 공간입니다.
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
-- [테스트](HTML/test.md) - Fri Jul 8 00:51:13 2022 +0900
+- [HTML5 기본 문법](HTML/HTML5 introduction&Syntax.md) - Mon Jul 11 16:49:40 2022 +0900
+- [HTML](HTML/HTML5 기본문법.md) - Mon Jul 11 16:49:40 2022 +0900
 
 ### Categories
 
 - [HTML](#HTML)
 
 ### [HTML](#HTML)
-- [테스트](HTML/test.md)
+- [HTML5 기본 문법](HTML/HTML5 introduction&Syntax.md)
+- [HTML](HTML/HTML5 기본문법.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
