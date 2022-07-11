@@ -7,7 +7,7 @@
 - 웹 페이지를 기술하기 위한 마크업 언어
 - 웹 페이지의 내용과 구조를 담당하는 언어로써 HTML 태그를 통해 정보를 구조화한 것
 
-<img src="/Users/sujin/Desktop/TIL/img/html5.png">
+![https://poiemaweb.com/img/html5.png](https://poiemaweb.com/img/html5.png)
 
 HTML5는 2014년 10월 28일 확정된 차세대 웹 표준으로 아래와 같은 기능들이 추가되었다.
 
