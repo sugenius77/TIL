@@ -23,7 +23,7 @@ _6 TILs and counting..._
 - [목록(List)와 표(talble)형식 표현을 위한 태그](HTML/list&table.md)
 - [시맨틱 웹](HTML/sementic_web.md)
 - [웹페이지의 구성하는 기본 태그](HTML/tag_basic.md)
-- [최근의 웹 트랜드는 텍스트를 줄이고 이미지나 동영상 등으로 콘텐츠를 구성하는 것이지만 HTML 콘텐츠의 대부분은 텍스트로 구성된다.](HTML/text_tag.md)
+- [텍스트 관련 태그](HTML/text_tag.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
