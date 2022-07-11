@@ -1,7 +1,5 @@
 # HTML5 기본 문법
 
-> 출처: 포이마
-
 ## 1. HTML(HyperText Markup Language)
 
 - 웹 페이지를 기술하기 위한 마크업 언어
@@ -158,3 +156,5 @@ HTML5는 2014년 10월 28일 확정된 차세대 웹 표준으로 아래와 같�
 | 2007.11 | HTML5 디자인 원칙 초안                                                            |
 | 2010.01 | HTML5 초안 공개(FPWD. First Publication Working Draft)                            |
 | 2014.10 | HTML5 최종 표준안 공개(Rec. Recommendation)                                       |
+
+> 출처: 포이마
