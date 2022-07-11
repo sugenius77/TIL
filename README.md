@@ -10,14 +10,14 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
-- [HTML5 기본 문법](HTML/HTML5 _introduction and Syntax.md) - Mon Jul 11 16:55:41 2022 +0900
+- [HTML5 기본 문법](HTML/introduction&Syntax.md) - Mon Jul 11 16:56:56 2022 +0900
 
 ### Categories
 
 - [HTML](#HTML)
 
 ### [HTML](#HTML)
-- [HTML5 기본 문법](HTML/HTML5 _introduction and Syntax.md)
+- [HTML5 기본 문법](HTML/introduction&Syntax.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
