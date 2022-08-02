@@ -4,18 +4,25 @@
 하루 동안 공부한 내용과 개발 관련 내용을 기록하는 공간입니다.
 
 
-_9 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [사용자와의 커뮤니케이션을 위한 폼 태그](HTML/forms.md) - Tue Jul 12 16:03:42 2022 +0900
 - [이미지의 표현과 동영상, 음악 등 멀티미디어를 지원하는 태그](HTML/image&multimedia.md) - Tue Jul 12 16:03:42 2022 +0900
+- [웹 페이지의 레이아웃을 구성하기 위해 공간을 분할하는 태그](HTML/structure.md) - Tue Jul 12 16:03:42 2022 +0900
 
 ### Categories
 
+- [CSS](#CSS)
 - [HTML](#HTML)
+
+### [CSS](#CSS)
+- [CSS 기본 문법](CSS/CSS3_syntax.md)
+- [박스 모델](CSS/box_model.md)
+- [셀렉터](CSS/selector.md)
+- [CSS 프로퍼티 값의 단위](CSS/units.md)
 
 ### [HTML](#HTML)
 - [사용자와의 커뮤니케이션을 위한 폼 태그](HTML/forms.md)
